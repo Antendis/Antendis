@@ -5,4 +5,5 @@ I code primarily in Python and have kept the majority of my work on here AFTER I
 
 Things not shown here include the code for a small game I had been working on before my PC corrupted
 
-![IMG_2082](https://user-images.githubusercontent.com/86629893/227190112-7f4973ac-70f1-4ffb-aefe-e573b6e3f4f7.jpg)
+
+![IMG_2445](https://user-images.githubusercontent.com/86629893/227190580-dd220e56-e900-493d-8839-b63bd0f897ba.png)
